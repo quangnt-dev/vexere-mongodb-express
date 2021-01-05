@@ -1,0 +1,16 @@
+{
+  "name": "vexere-mongodb-express",
+  "version": "1.0.0",
+  "description": "echo \"# vexere-mongodb-express\" >> README.md",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/quangnt-dev/vexere-mongodb-express.git"
+  },
+  "keywords": [],
+  "author": "quangnt",
+  "license": "ISC"
+}
